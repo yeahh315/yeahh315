@@ -10,7 +10,7 @@
 
 
 
-<h4>🔧Tech Stack</h4>
+<!-- <h4>🔧Tech Stack</h4>
 <h6>Techs that I've used at least once</h6>
 <br/>
 
@@ -26,7 +26,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
-
+ -->
 
 </div>
 <!--
