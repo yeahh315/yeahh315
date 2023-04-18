@@ -6,7 +6,6 @@
 
 ![Yeah's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahh315&theme=buefy&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeahh315&layout=compact&theme=테마"/>
 
 
 
